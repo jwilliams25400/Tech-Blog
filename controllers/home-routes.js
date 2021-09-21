@@ -27,10 +27,9 @@ router.get('/post/:id', async (req, res) => {
           {
             model: Comment,
             include: [User]
-          }
+          },
         ]
-      }
-    );
+      });
 
     if (postData) {
       const post = postData.get({ plain: true });
