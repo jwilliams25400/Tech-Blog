@@ -10,6 +10,11 @@ https://www.github.com/JWilliams25400
 ### As a developer we spend a lot of time creating applications and debugging existing codebases, Welcome to my developer Tech blog where developers can sign up for free to publish their blog post and comment on other developers post. As a community of developer we can use this platform to better each others ability to enhance our coding abilities. Thank you for visiting and please leave a post or a comment. 
 --------------------
 
+## Heroku 
+https://tech-blog-jw21.herokuapp.com/
+
+--------------------
+
 ## Technology
 ### HTML, CSS, Javascript
 --------------------
