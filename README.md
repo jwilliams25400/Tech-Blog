@@ -13,6 +13,9 @@ https://www.github.com/JWilliams25400
 ## Heroku 
 https://tech-blog-jw21.herokuapp.com/
 
+
+![](images/techBlog.jpg)
+
 --------------------
 
 ## Technology
